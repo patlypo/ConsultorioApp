@@ -38,7 +38,6 @@ Usa **Firebase Realtime Database** para almacenar datos en tiempo real y **Fireb
 ### Doctores 
 <p align="center">
   <img src="imagespreview/Screenshot_2025-10-15-15-32-52-344_com.example.consultorio.jpg" alt="Vista previa" width="300"/>
-  <img src="imagespreview/Screenshot_2025-10-15-15-32-52-344_com.example.consultorio.jpg" alt="Vista previa" width="300"/>
 </p> 
 
 ### Agendar Cita 
@@ -60,9 +59,7 @@ Usa **Firebase Realtime Database** para almacenar datos en tiempo real y **Fireb
 
 ## Desarrollado por
 
-👩🏻‍💻 **Paty Leyva y Laura Padilla**  
-📚 Proyecto de práctica: *Consultorio Médico en Kotlin con Firebase*  
-
+**Paty Leyva y Laura Padilla**  
 ---
 
 
