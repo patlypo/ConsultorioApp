@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "879882715920",
+    "firebase_url": "https://consultorio-76843-default-rtdb.firebaseio.com",
+    "project_id": "consultorio-76843",
+    "storage_bucket": "consultorio-76843.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879882715920:android:a34469cc801e2c7c3f5b95",
+        "android_client_info": {
+          "package_name": "com.example.consultorio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9yLRm88Kc2ktK4PS791lW6mbsRAN4f2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
